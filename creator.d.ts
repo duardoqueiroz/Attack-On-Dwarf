@@ -7469,7 +7469,8 @@ declare namespace cc {
 	!#zh
 	系统事件，它目前支持按键事件和重力感应事件。<br>
 	你可以通过 cc.systemEvent 获取到 SystemEvent 的实例。<br> */
-	export class SystemEvent extends EventTarget {		
+	export class SystemEvent extends EventTarget {
+        static Event: any;		
 		/**
 		!#en whether enable accelerometer event
 		!#zh 是否启用加速度计事件
