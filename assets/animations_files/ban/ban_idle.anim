@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ban_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "508d739e-8a0c-4900-b05e-5a6f9a43ea51"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "a79b82a5-4b56-454a-9847-a09a04a057e6"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "cd5d11b3-46f5-47cf-95e6-ac0a166fc810"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d89f8184-500a-4e10-8459-e1bf8b94503a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
