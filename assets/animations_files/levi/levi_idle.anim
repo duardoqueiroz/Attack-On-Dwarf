@@ -3,7 +3,7 @@
   "_name": "levi_idle",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.05,
+  "_duration": 0.016666666666666666,
   "sample": 60,
   "speed": 0.1,
   "wrapMode": 22,
@@ -15,12 +15,6 @@
             "frame": 0,
             "value": {
               "__uuid__": "e0d6d336-fd17-4098-93f3-a07fc303a9bd"
-            }
-          },
-          {
-            "frame": 0.03333333333333333,
-            "value": {
-              "__uuid__": "d7b3c7c9-7022-4f36-9aec-c37d4ddb410a"
             }
           }
         ]

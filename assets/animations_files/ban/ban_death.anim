@@ -21,7 +21,12 @@
       }
     },
     "props": {
-      "scaleY": []
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.7
+        }
+      ]
     }
   },
   "events": []
