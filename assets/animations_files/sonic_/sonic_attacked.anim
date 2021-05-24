@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sonic_attacked",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.05,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e761142c-aa48-4459-ba07-3aad6cfe7986"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "c1a89c74-b7ed-433c-8ca2-d07a4e88c05f"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "0c5c1835-e97b-46e9-9ea4-f5d0250da744"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.9
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 0.7
+        }
+      ]
+    }
+  },
+  "events": []
+}

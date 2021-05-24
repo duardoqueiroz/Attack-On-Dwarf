@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monica_down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "404a6809-2808-429a-95ef-a68dd9a76224"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.6
+        }
+      ]
+    }
+  },
+  "events": []
+}
