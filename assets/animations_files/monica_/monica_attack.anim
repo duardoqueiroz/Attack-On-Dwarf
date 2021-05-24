@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monica_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "10e41c5f-8f80-4297-97ae-5952c0d86274"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "5458f37e-434e-45d6-b7ab-04d9f45d6dc7"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "5458f37e-434e-45d6-b7ab-04d9f45d6dc7"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "10e41c5f-8f80-4297-97ae-5952c0d86274"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

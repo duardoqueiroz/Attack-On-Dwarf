@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "levi_jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6ca29d30-6f17-4a3a-9b9a-2c27983d0983"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "6ca29d30-6f17-4a3a-9b9a-2c27983d0983"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "937b796f-7576-42be-8b36-850c99f20a71"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "384bb3b3-f79d-4a39-a35a-d7e499d026a3"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "57b2d736-b646-4f50-a1bc-3dbcb246a277"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "f8fe6109-7591-4cc0-a44b-8b6040c52f9a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "8e12f203-eaf8-4625-9a97-3003647b365a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

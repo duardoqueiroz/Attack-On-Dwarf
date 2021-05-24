@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sonic_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2912f5bc-e075-41f7-a88a-b9e1aed050cc"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "a9e0c641-1de8-4661-9ddc-dcc5382748ef"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "5c8dd8eb-024d-4873-a2d7-f366edbc6bc9"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "1ecb9ff0-b538-4f70-97e2-8de90e68a39a"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "79bb5a23-7538-43d2-97d1-6b4e9755ee4c"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "ae7f5f41-a4b4-438b-ab0c-ec6b98e6ac17"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1.4
+        }
+      ]
+    }
+  },
+  "events": []
+}
