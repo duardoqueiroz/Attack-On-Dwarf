@@ -12,4 +12,3 @@ export default abstract class KeyboardController extends cc.Component {
     protected abstract onKeyUp(event: cc.Event.EventKeyboard);
 
 }
-s

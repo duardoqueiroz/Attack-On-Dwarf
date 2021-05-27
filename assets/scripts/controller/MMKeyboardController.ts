@@ -17,4 +17,3 @@ export default class MainmenuKeyboardController extends KeyboardController {
 
 
 }
-s
