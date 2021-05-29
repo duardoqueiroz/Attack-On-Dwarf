@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d64448f8-a6dd-4e36-9ec0-580085048962",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 400,
+  "height": 290,
+  "platformSettings": {},
+  "subMetas": {
+    "02-trevo-da-folha3": {
+      "ver": "1.0.4",
+      "uuid": "c1fa504e-1dfb-4c48-be8b-7f4460457ff9",
+      "rawTextureUuid": "d64448f8-a6dd-4e36-9ec0-580085048962",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 400,
+      "height": 290,
+      "rawWidth": 400,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
