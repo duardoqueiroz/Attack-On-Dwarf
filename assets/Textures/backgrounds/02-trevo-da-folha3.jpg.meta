@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "d64448f8-a6dd-4e36-9ec0-580085048962",
+  "uuid": "616263a0-74e6-4b55-9018-03507a635396",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "02-trevo-da-folha3": {
       "ver": "1.0.4",
-      "uuid": "c1fa504e-1dfb-4c48-be8b-7f4460457ff9",
-      "rawTextureUuid": "d64448f8-a6dd-4e36-9ec0-580085048962",
+      "uuid": "b055645e-f593-47c5-8545-a36e3775d6b5",
+      "rawTextureUuid": "616263a0-74e6-4b55-9018-03507a635396",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
