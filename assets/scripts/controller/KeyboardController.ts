@@ -1,5 +1,4 @@
 const { ccclass, property } = cc._decorator;
-
 @ccclass
 export default abstract class KeyboardController extends cc.Component {
     public onLoad() {
