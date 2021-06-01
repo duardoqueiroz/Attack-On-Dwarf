@@ -21,5 +21,4 @@ export default class SelectArenaKeyboardController extends KeyboardController {
           break;
       }
     }
-    protected onKeyUp(event: cc.Event.EventKeyboard) {}
 }
