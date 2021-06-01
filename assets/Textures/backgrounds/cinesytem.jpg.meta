@@ -1,6 +1,10 @@
 {
   "ver": "2.3.5",
+<<<<<<< Updated upstream
   "uuid": "45a98bff-aeaf-4953-b647-3925ab92543f",
+=======
+  "uuid": "2c1a4cd2-bf37-47be-9f75-ea74229d2ce9",
+>>>>>>> Stashed changes
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +17,13 @@
   "subMetas": {
     "cinesytem": {
       "ver": "1.0.4",
+<<<<<<< Updated upstream
       "uuid": "7aab146e-cdec-4a5f-ba59-55f0c32f1b3c",
       "rawTextureUuid": "45a98bff-aeaf-4953-b647-3925ab92543f",
+=======
+      "uuid": "40537ca7-6aca-4ca8-a608-8c12e562c4cd",
+      "rawTextureUuid": "2c1a4cd2-bf37-47be-9f75-ea74229d2ce9",
+>>>>>>> Stashed changes
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

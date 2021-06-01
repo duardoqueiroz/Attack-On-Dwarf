@@ -1,6 +1,10 @@
 {
   "ver": "2.3.5",
+<<<<<<< Updated upstream
   "uuid": "8eb3668e-4405-4535-9506-bd58fb85d0c4",
+=======
+  "uuid": "a70ec4f8-8c44-4b0e-a4b2-63f83b3e48c4",
+>>>>>>> Stashed changes
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +17,13 @@
   "subMetas": {
     "arapimapa (1)": {
       "ver": "1.0.4",
+<<<<<<< Updated upstream
       "uuid": "4c59d718-6d06-4427-b438-61f5da8ff3d7",
       "rawTextureUuid": "8eb3668e-4405-4535-9506-bd58fb85d0c4",
+=======
+      "uuid": "38744ac9-181d-4069-9636-010ccabe4e46",
+      "rawTextureUuid": "a70ec4f8-8c44-4b0e-a4b2-63f83b3e48c4",
+>>>>>>> Stashed changes
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

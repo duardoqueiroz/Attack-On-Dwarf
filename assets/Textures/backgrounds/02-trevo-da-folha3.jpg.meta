@@ -1,6 +1,10 @@
 {
   "ver": "2.3.5",
+<<<<<<< Updated upstream
   "uuid": "d64448f8-a6dd-4e36-9ec0-580085048962",
+=======
+  "uuid": "74812d8a-b033-4a5d-895e-28f773fecc4c",
+>>>>>>> Stashed changes
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +17,13 @@
   "subMetas": {
     "02-trevo-da-folha3": {
       "ver": "1.0.4",
+<<<<<<< Updated upstream
       "uuid": "c1fa504e-1dfb-4c48-be8b-7f4460457ff9",
       "rawTextureUuid": "d64448f8-a6dd-4e36-9ec0-580085048962",
+=======
+      "uuid": "5a4a4fb0-955c-4011-9b9b-e1a549bb0e4e",
+      "rawTextureUuid": "74812d8a-b033-4a5d-895e-28f773fecc4c",
+>>>>>>> Stashed changes
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

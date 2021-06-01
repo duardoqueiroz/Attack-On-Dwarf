@@ -1,6 +1,10 @@
 {
   "ver": "2.3.5",
+<<<<<<< Updated upstream
   "uuid": "11737e69-eee8-4457-bafa-c1493a25d07e",
+=======
+  "uuid": "2d32b6d6-4432-4f02-95ad-e9797782740f",
+>>>>>>> Stashed changes
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +17,13 @@
   "subMetas": {
     "arapiraca-8": {
       "ver": "1.0.4",
+<<<<<<< Updated upstream
       "uuid": "1847d725-319e-4d18-b0a3-59c23746b5e5",
       "rawTextureUuid": "11737e69-eee8-4457-bafa-c1493a25d07e",
+=======
+      "uuid": "0d0307d5-8182-4817-bb93-ec5e7560deda",
+      "rawTextureUuid": "2d32b6d6-4432-4f02-95ad-e9797782740f",
+>>>>>>> Stashed changes
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
