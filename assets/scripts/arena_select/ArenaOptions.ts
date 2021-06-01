@@ -1,4 +1,4 @@
-import iSpriteWithName from "./ISpriteWithName";
+import iSpriteWithName from "./iSpriteWithName";
 const {ccclass} = cc._decorator;
 
 @ccclass
