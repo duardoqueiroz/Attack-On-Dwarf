@@ -1,5 +1,5 @@
 import KeyboardController from "./KeyboardController";
-import ArenaOptions from "../ArenaOptions"
+import ArenaOptions from "../arena_select/ArenaOptions"
 
 const {ccclass, property} = cc._decorator;
 
