@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "35c22927-b273-4a98-a0c6-f9f3bbac4f84",
+  "uuid": "0a94015c-e96a-4777-9dcd-62f93623e581",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "arapimapa (1)": {
       "ver": "1.0.4",
-      "uuid": "d4fcc692-ce10-4fbd-8741-abeb09cc3d39",
-      "rawTextureUuid": "35c22927-b273-4a98-a0c6-f9f3bbac4f84",
+      "uuid": "ee777969-43f5-4902-a4c0-9b7cfff5f41f",
+      "rawTextureUuid": "0a94015c-e96a-4777-9dcd-62f93623e581",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

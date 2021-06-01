@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "f787873c-69fb-4339-a2ba-421c4c9d7731",
+  "uuid": "ccf1b4b5-0ef4-45e3-9b8f-a0d9212b1b72",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "pino vermelho di vdd": {
       "ver": "1.0.4",
-      "uuid": "62a8ac55-0055-4e7d-9b93-e1b4b1e3a3bb",
-      "rawTextureUuid": "f787873c-69fb-4339-a2ba-421c4c9d7731",
+      "uuid": "2a4aa29f-c6b7-4d06-9a01-21e313cc6240",
+      "rawTextureUuid": "ccf1b4b5-0ef4-45e3-9b8f-a0d9212b1b72",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

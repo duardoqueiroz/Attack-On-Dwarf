@@ -58,7 +58,7 @@
     "_groupIndex": 0,
     "groupIndex": 0,
     "autoReleaseAssets": false,
-    "_id": "034641a2-6e99-459f-a167-ced5918d84f3"
+    "_id": "a72e0785-56b4-4be2-a851-61b2dbadeaac"
   },
   {
     "__type__": "cc.Node",
@@ -171,7 +171,7 @@
       "array": [
         0,
         0,
-        375.04992742745725,
+        234.6928844255829,
         0,
         0,
         0,
@@ -232,7 +232,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "cinesytem",
+    "_name": "233088_ext_arquivo",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -255,8 +255,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 960,
-      "height": 663
+      "width": 980,
+      "height": 649
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -267,8 +267,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -5.989,
-        9.747,
+        0,
+        0,
         0,
         0,
         0,
@@ -290,7 +290,7 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "97BnoVPlFFS6coaNIl6mG2"
+    "_id": "94scn/gCZKmpPshKUIlLWG"
   },
   {
     "__type__": "cc.Sprite",
@@ -308,7 +308,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "7aab146e-cdec-4a5f-ba59-55f0c32f1b3c"
+      "__uuid__": "5a8abced-6943-4d11-ac51-fc1ac5c03f31"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -322,7 +322,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": null,
-    "_id": "36WDjsu1VH+JG5rYXW/vlL"
+    "_id": "69k7kDfnNBxbCRgw1I426G"
   },
   {
     "__type__": "cc.Canvas",

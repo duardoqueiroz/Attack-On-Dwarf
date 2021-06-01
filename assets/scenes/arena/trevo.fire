@@ -58,7 +58,7 @@
     "_groupIndex": 0,
     "groupIndex": 0,
     "autoReleaseAssets": false,
-    "_id": "ff9f49f4-4c2a-4285-8155-4ee28d6abde7"
+    "_id": "6e7ca395-5f58-4a4e-ba86-37dbc82e303f"
   },
   {
     "__type__": "cc.Node",
@@ -171,7 +171,7 @@
       "array": [
         0,
         0,
-        375.04992742745725,
+        234.6928844255829,
         0,
         0,
         0,
@@ -232,7 +232,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "arapiraca-8",
+    "_name": "02-trevo-da-folha3",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -255,8 +255,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1110,
-      "height": 650
+      "width": 400,
+      "height": 290
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -274,8 +274,8 @@
         0,
         0,
         1,
-        1,
-        1,
+        2.4,
+        2.2,
         1
       ]
     },
@@ -290,7 +290,7 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "f2O4Rbkk9Fh62heDFWanAd"
+    "_id": "4fRC5X3i5K1JNGekqjToEh"
   },
   {
     "__type__": "cc.Sprite",
@@ -308,7 +308,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "1847d725-319e-4d18-b0a3-59c23746b5e5"
+      "__uuid__": "c22da7a2-5959-42bd-8783-e093745139da"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -322,7 +322,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": null,
-    "_id": "0aQ1bc55VB6KRAsD2z7S9Z"
+    "_id": "daZ5COn6VMnqvxiE6aqrTV"
   },
   {
     "__type__": "cc.Canvas",

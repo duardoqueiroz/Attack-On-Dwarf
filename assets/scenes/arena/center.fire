@@ -58,7 +58,7 @@
     "_groupIndex": 0,
     "groupIndex": 0,
     "autoReleaseAssets": false,
-    "_id": "b9057182-b39f-4c86-944a-a3dbc7c4fbf7"
+    "_id": "ff9f49f4-4c2a-4285-8155-4ee28d6abde7"
   },
   {
     "__type__": "cc.Node",
@@ -171,7 +171,7 @@
       "array": [
         0,
         0,
-        375.04992742745725,
+        234.6928844255829,
         0,
         0,
         0,
@@ -232,7 +232,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "2333673_ext_arquivo",
+    "_name": "arapiraca-8",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -255,8 +255,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 700,
-      "height": 394
+      "width": 1110,
+      "height": 650
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -267,15 +267,15 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        132.56,
-        -4.666,
+        0,
+        0,
         0,
         0,
         0,
         0,
         1,
-        1.8,
-        1.7,
+        1,
+        1,
         1
       ]
     },
@@ -290,7 +290,7 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "60vrc8DepO1JMTGgMH4322"
+    "_id": "f2O4Rbkk9Fh62heDFWanAd"
   },
   {
     "__type__": "cc.Sprite",
@@ -308,7 +308,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "02c02a79-ee18-450c-8bcc-9735455d2967"
+      "__uuid__": "50009cf5-7d6f-4df2-b5c1-b728e6363a9c"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -322,7 +322,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": null,
-    "_id": "3eheqc87lOgJq9n7ttI6Zf"
+    "_id": "0aQ1bc55VB6KRAsD2z7S9Z"
   },
   {
     "__type__": "cc.Canvas",
