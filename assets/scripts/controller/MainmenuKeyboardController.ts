@@ -11,9 +11,5 @@ export default class MainmenuKeyboardController extends KeyboardController {
                 break;
         }
     }
-    protected onKeyUp(event: cc.Event.EventKeyboard) {
-
-    }
-
 
 }
