@@ -3,7 +3,7 @@
   "_name": "monica_vs_naruto",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.6666666666666666,
+  "_duration": 2,
   "sample": 60,
   "speed": 0.2,
   "wrapMode": 1,
@@ -138,6 +138,30 @@
             }
           ]
         }
+      },
+      "black": {
+        "comps": {
+          "cc.Sprite": {
+            "fillType": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.4833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.6166666666666667,
+              "value": 255
+            }
+          ]
+        }
       }
     },
     "props": {
@@ -151,13 +175,8 @@
   },
   "events": [
     {
-      "frame": 0.3333333333333333,
-      "func": "",
-      "params": []
-    },
-    {
-      "frame": 0.3333333333333333,
-      "func": "",
+      "frame": 2,
+      "func": "nextScene",
       "params": []
     }
   ]
