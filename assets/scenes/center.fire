@@ -17,7 +17,7 @@
         "__id__": 2
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [],
     "_prefab": null,
     "_opacity": 255,
@@ -504,7 +504,9 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_spriteFrame": null,
+    "_spriteFrame": {
+      "__uuid__": "6f93a22a-9cf0-46a2-a927-d67b8f31f4d2"
+    },
     "_type": 0,
     "_sizeMode": 0,
     "_fillType": 0,
@@ -686,7 +688,7 @@
       "__id__": 9
     },
     "asset": {
-      "__uuid__": "f89c8c93-e1a5-4b35-97ca-0863c092d602"
+      "__uuid__": "a5e44b46-86ed-4405-a6b7-cbc7d1c17ef1"
     },
     "fileId": "",
     "sync": false
