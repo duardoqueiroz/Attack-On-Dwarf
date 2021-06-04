@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "11737e69-eee8-4457-bafa-c1493a25d07e",
+  "uuid": "333d56f2-56c3-4f1e-8b84-6a57541bcc4e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "arapiraca-8": {
       "ver": "1.0.4",
-      "uuid": "1847d725-319e-4d18-b0a3-59c23746b5e5",
-      "rawTextureUuid": "11737e69-eee8-4457-bafa-c1493a25d07e",
+      "uuid": "1776d4ac-8a5f-4cdd-b6b9-01c6a56fcbb5",
+      "rawTextureUuid": "333d56f2-56c3-4f1e-8b84-6a57541bcc4e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

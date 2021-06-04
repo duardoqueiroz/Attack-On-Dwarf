@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "eea68859-ad09-4630-82ab-862a2bede32d",
+  "uuid": "af8a6c57-1fa6-4ede-a56a-6c8f44b065a4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "logo_sfaeIII": {
       "ver": "1.0.4",
-      "uuid": "87bb7ff2-3a24-4f4c-b11d-281403b12324",
-      "rawTextureUuid": "eea68859-ad09-4630-82ab-862a2bede32d",
+      "uuid": "e57938c6-2721-479c-856d-9065eebd0588",
+      "rawTextureUuid": "af8a6c57-1fa6-4ede-a56a-6c8f44b065a4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
