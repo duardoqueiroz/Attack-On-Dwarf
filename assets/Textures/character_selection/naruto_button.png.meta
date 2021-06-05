@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9da3c134-7e57-42ac-8081-b6104351ace1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 286,
+  "platformSettings": {},
+  "subMetas": {
+    "naruto_button": {
+      "ver": "1.0.4",
+      "uuid": "d176b89e-9f29-4fc2-9913-2382902bfabc",
+      "rawTextureUuid": "9da3c134-7e57-42ac-8081-b6104351ace1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0.5,
+      "trimX": 21,
+      "trimY": 10,
+      "width": 461,
+      "height": 265,
+      "rawWidth": 500,
+      "rawHeight": 286,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
