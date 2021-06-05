@@ -17,8 +17,8 @@ export default class Actor extends cc.Component {
         return this._isJumping;
     }
     public set isJumping(value: boolean) {
-        if (!value && this.state === PLAYER_STATE.Jumping) {
-            this.state = PLAYER_STATE.Idle;
+        if (!value && this.state === PLAYER_STATE.jumping) {
+            this.state = PLAYER_STATE.idle;
         }
         this._isJumping = value;
     }
@@ -52,7 +52,7 @@ export default class Actor extends cc.Component {
         return this._state;
     }
 
-    public set state(newState: PLAYER_STATE):void {
+    public set state(newState: PLAYER_STATE) {
         if (this._state != newState) {
             this.getComponent(cc.Animation).play(newState);
             this._state = newState;
@@ -62,7 +62,7 @@ export default class Actor extends cc.Component {
     public jump():void {
        if (this.isInTheFloor) {
             console.log('oi');
-            this.state = PLAYER_STATE.jump;
+            this.state = PLAYER_STATE.jumping;
             this.isJumping = true;
             this.rigidBody.applyForceToCenter(cc.v2(0, this.jumpForce), true);
             console.log("ta pulando poha?");

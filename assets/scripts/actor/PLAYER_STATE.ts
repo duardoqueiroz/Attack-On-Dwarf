@@ -1,9 +1,9 @@
 enum PLAYER_STATE {
   idle = 'idle',
-  jump = 'jump',
+  jumping = 'jumping',
   running = 'running',
   down = "down",
-  attack = "attackk",
+  attack = "attack",
   attacked = "attacked",
   death = "death",
 }
