@@ -17,7 +17,7 @@ export default class Actor extends cc.Component {
         return this._isJumping;
     }
     public set isJumping(value: boolean) {
-        if (!value && this.state === PLAYER_STATE.jumping) {
+        if (!value && this._state === PLAYER_STATE.jumping) {
             this.state = PLAYER_STATE.idle;
         }
         this._isJumping = value;
