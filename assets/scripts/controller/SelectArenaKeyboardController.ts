@@ -1,12 +1,12 @@
 import KeyboardController from "./KeyboardController";
-import ArenaOptions from "../arena_select/ArenaOptions"
+import ArenaOptions from "../arena_select/ArenaOptions";
 
 const {ccclass, property} = cc._decorator;
 
 @ccclass
 export default class SelectArenaKeyboardController extends KeyboardController {
     @property(ArenaOptions)
-    public arenaOptions:ArenaOptions = null;
+    private arenaOptions:ArenaOptions = null;
 
     protected onKeyDown(event: cc.Event.EventKeyboard) {
       switch (event.keyCode) {
