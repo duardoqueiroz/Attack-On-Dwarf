@@ -3,9 +3,9 @@ enum PLAYER_STATE {
   jump = 'jump',
   running = 'running',
   down = "down",
-  attack = "attackk",
+  attack = "attack",
   attacked = "attacked",
-  death = "death",
+  death = "death"
 }
 
 export default PLAYER_STATE;

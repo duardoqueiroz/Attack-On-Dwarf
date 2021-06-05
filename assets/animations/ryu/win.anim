@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "win",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.05,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "737b37d6-550c-422d-8a8e-aab882c60a05"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "cdaaa36e-ec52-4d21-a4cf-5b1197eea5a5"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "a2ddbe07-4cbd-4e3e-b653-03932fa296d6"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 1
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 1.2
+        }
+      ]
+    }
+  },
+  "events": []
+}
