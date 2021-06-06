@@ -1,4 +1,4 @@
-const { ccclass, property } = cc._decorator;
+const { ccclass } = cc._decorator;
 
 @ccclass
 export default abstract class KeyboardController extends cc.Component {
