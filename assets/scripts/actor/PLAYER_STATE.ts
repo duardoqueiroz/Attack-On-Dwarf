@@ -5,7 +5,7 @@ enum PLAYER_STATE {
   down = "down",
   attack = "attack",
   attacked = "attacked",
-  death = "death",
+  death = "death"
 }
 
 export default PLAYER_STATE;
