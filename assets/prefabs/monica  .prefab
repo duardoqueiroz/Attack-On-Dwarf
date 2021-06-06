@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "monica",
+    "_name": "monica ",
     "_objFlags": 0,
     "_parent": null,
     "_children": [],
@@ -69,8 +69,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -396.022,
-        -58.512,
+        409.009,
+        150.02,
         0,
         0,
         0,
