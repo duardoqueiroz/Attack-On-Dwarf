@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "naruto_death",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "83f8d1c8-ae10-4c33-b8bc-ec1d9c0b7a8b"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 200
+        }
+      ]
+    }
+  },
+  "events": []
+}
