@@ -1,3 +1,3 @@
-export default interface iSpriteWithName{
+export default interface iSpriteWithName {
   sprite: cc.Sprite;
 }
