@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "logo",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9ffcf39a-97df-4646-bbbb-9ab2f9359caa"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "9ffcf39a-97df-4646-bbbb-9ab2f9359caa"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -67.665,
+            -149.428,
+            0
+          ]
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            -42.291,
+            -146.609,
+            0
+          ]
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            -52.159,
+            -144.494,
+            0
+          ]
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            -67.665,
+            -149.428,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
