@@ -15,7 +15,7 @@ export default class ArenaOptions extends SelectOptions {
         this._selectedIndex = newIndex;
     }
 
-    public selectOption() {
+    public selectOption():void {
         if (this.selectedIndex == 0) {
             cc.director.loadScene('shopping');
         }

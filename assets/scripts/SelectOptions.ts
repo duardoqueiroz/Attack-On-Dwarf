@@ -16,7 +16,7 @@ export default abstract class SelectOptions extends cc.Component {
         this.selectedIndex = 0;
     }
 
-    public selectUp() {
+    public selectUp():void {
         if (this.selectedIndex > 0) {
             this.selectedIndex--;
         }else {
@@ -24,7 +24,7 @@ export default abstract class SelectOptions extends cc.Component {
         }
     }
 
-    public selectDown() {
+    public selectDown():void {
         if (this.selectedIndex < this.spriteList.length - 1){
            this.selectedIndex++; 
         } else{
@@ -32,5 +32,5 @@ export default abstract class SelectOptions extends cc.Component {
         } 
     }
 
-    abstract public selectOption();
+    abstract public selectOption():void;
 }
