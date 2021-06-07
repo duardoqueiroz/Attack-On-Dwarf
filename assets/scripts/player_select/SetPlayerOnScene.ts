@@ -1,28 +1,24 @@
-// Learn TypeScript:
-//  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
-// Learn Attribute:
-//  - https://docs.cocos.com/creator/manual/en/scripting/reference/attributes.html
-// Learn life-cycle callbacks:
-//  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
-
 const {ccclass, property} = cc._decorator;
 
 @ccclass
 export default class NewClass extends cc.Component {
 
-    @property(cc.Label)
-    label: cc.Label = null;
+    @property(cc.Prefab)
+    CharPrefab: cc.Prefab = null;
+    
+    const goku = cc.instantiate(this.CharPrefab);
+    const monica = cc.instantiate(this.CharPrefab);
+    const naruto = cc.instantiate(this.CharPrefab);
+    const ryu = cc.instantiate(this.CharPrefab);
 
-    @property
-    text: string = 'hello';
+    this.nodeChild(goku);
+    this.nodeChild(monica);
+    this.nodeChild(naruto);
+    this.nodeChild(ryu);
 
-    // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {}
-
-    start () {
-
-    }
-
-    // update (dt) {}
+    goku.position = new cc.Vec2(143,172);
+  //  monica.position = new cc.Vec2();
+    //naruto.position = new cc.Vec2();
+    //ryu.position = new cc.Vec2();
 }
