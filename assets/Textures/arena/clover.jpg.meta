@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "92b13d74-6c05-43ee-a8cd-f4972abe30b5",
+  "uuid": "87efd9a0-086a-4b92-8892-99941cc9c141",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "clover": {
       "ver": "1.0.4",
-      "uuid": "1cf537e2-a192-469a-b7ad-36f42e1bd95b",
-      "rawTextureUuid": "92b13d74-6c05-43ee-a8cd-f4972abe30b5",
+      "uuid": "b3f9b271-dfe5-4bb4-a274-0a3fabfe8a43",
+      "rawTextureUuid": "87efd9a0-086a-4b92-8892-99941cc9c141",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

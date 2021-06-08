@@ -6669,6 +6669,8 @@ declare namespace cc {
 		!#zh 指示该 Prefab 依赖的资源可否在 Prefab 加载后再延迟加载。 */
 		asyncLoadAssets: boolean;		
 		readonly: boolean;		
+    y: number;
+    x: number;
 		/**
 		Dynamically translation prefab data into minimized code.<br/>
 		This method will be called automatically before the first time the prefab being instantiated,
