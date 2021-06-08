@@ -46,10 +46,13 @@
       },
       {
         "__id__": 15
+      },
+      {
+        "__id__": 16
       }
     ],
     "_prefab": {
-      "__id__": 16
+      "__id__": 17
     },
     "_opacity": 255,
     "_color": {
@@ -481,6 +484,19 @@
     "jumpForce": 600000,
     "walkForce": 80000,
     "maxSpeed": 400,
+    "_id": ""
+  },
+  {
+    "__type__": "37105vJTvxJ/qQlUmQoemo6",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "actor": {
+      "__id__": 15
+    },
     "_id": ""
   },
   {
