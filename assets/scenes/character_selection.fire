@@ -789,6 +789,14 @@
       "__id__": 7
     },
     "_enabled": true,
+    "character": [
+      {
+        "__uuid__": "c9a0ba24-6dea-4e79-9d99-3326201c1e33"
+      },
+      {
+        "__uuid__": "5e0d14a3-7bf9-4a4f-9a40-b17a560e43e4"
+      }
+    ],
     "_id": "927Gwl/e1C77uNz7m4PM/L"
   },
   {
