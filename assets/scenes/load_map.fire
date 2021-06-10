@@ -177,7 +177,7 @@
       "array": [
         0,
         0,
-        382.78322847272193,
+        220.83647796503186,
         0,
         0,
         0,
@@ -238,7 +238,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "arapimapa (1)",
+    "_name": "arapimapa",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -445,8 +445,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        459.104,
-        473.385,
+        458.538,
+        476.443,
         0,
         0,
         0,
@@ -504,7 +504,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "trevo",
+    "_name": "center",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -539,8 +539,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        549.872,
-        388.949,
+        389.034,
+        349.192,
         0,
         0,
         0,
@@ -633,8 +633,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        520.321,
-        277.072,
+        654.052,
+        414.417,
         0,
         0,
         0,
@@ -692,7 +692,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "center",
+    "_name": "cinesystem",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -727,8 +727,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        382.637,
-        351.749,
+        359.143,
+        516.201,
         0,
         0,
         0,
@@ -786,7 +786,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "cinesystem",
+    "_name": "folhinha",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -821,8 +821,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        355.347,
-        464.924,
+        534.257,
+        392.638,
         0,
         0,
         0,
