@@ -4,7 +4,7 @@ const { ccclass } = cc._decorator;
 @ccclass
 export default class DefeatOptions extends cc.Component {
   public spriteList: Array<iSpriteWName> = [];
-
+  
   public _selectedIndex = 0;
 
   private get selectedIndex() {
